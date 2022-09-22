@@ -95,14 +95,14 @@ nav .login_button a:hover{
     position: absolute;
     top: 15%;
     text-align: center;
-    left: 35%;
+    left: 30%;
 }
 
 .titulo-text {
     position: absolute;
     font-size: 2em;
     text-align: center;
-    width: 300px;
+    width: 500px;
 }
 
 .tabla {
