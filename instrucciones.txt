@@ -1,0 +1,11 @@
+npx create-react-app instaya
+cd instaya
+npm install react-bootstrap bootstrap
+npm install react-router-dom
+npm install react-bootstrap-validation --save
+
+
+Copiar, pegar y reemplazar el contenido del repositorio en la carpeta instaya creada en el
+comando "npx create-react-app instaya"
+
+npm start
