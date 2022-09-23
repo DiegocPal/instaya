@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* div .text-left{
+    display: flex;
+    align-items: flex-start;
+}
+
+div .box-left{
+    display: flex;
+    align-items: flex-start;
+    left: 15%;
+    width: 30%;
+}
+
+div .text-right{
+    position: absolute;
+    left: 55%;
+}
+
+div .box-right{
+    position: absolute;
+    left: 55%;
+    width: 30%;
+} */
+
+div .tiempo{
+    width: 30%;
+    position: absolute;
+    top:16%;
+    left: 8%;
+}
+
+div .tamaño{
+    width: 30%;
+    position: absolute;
+    top:50%;
+    left: 8%;
+}
+
+div .origen-destino {
+    width: 40%;
+    position: absolute;
+    left: 50%;
+    top: 16%;
+}
+
+div .submit{
+    position: absolute;
+    top:90%;
+    left:45%;
+}
+
+/* div .create-form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: #323232;
+    gap: 255px;
+    width: 90%;
+    height: 100%;
+    z-index: 100;
+    position: fixed;
+    left: 5%;
+    top: 0px; 
+} */

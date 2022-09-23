@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+div .nav-bar{
+    width: 100%;
+    padding: 0rem;
+    color: #1f2bbf;
+    background: #1f2bbf;
+}
+
+div .nav-login{
+    position: absolute;
+    box-sizing: border-box;
+    top: 16%;
+    right: 3rem;
+    padding: 0px;
+    gap: 10px;
+    width: 114px;
+    height: 38px;
+    border: 2px solid #FFFFFF;
+    border-radius: 5px;
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+}
+
+div .nav-list{
+    position: absolute;
+    left: 25%;
+    top: 16%;
+}
+
+div .nav-create{
+    position: absolute;
+    left: 45%;
+    top: 16%;
+}
+
+div .nav-update{
+    position: absolute;
+    left: 65%;
+    top: 16%;
+}
