@@ -1,8 +1,6 @@
 import logo from "../resources/logo.png";
 import '../styles/navbar.css';
 import React from "react";
-import Lista from "./lista"
-import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
 function Navbar() {
   return (
@@ -17,7 +15,7 @@ function Navbar() {
             <li><a href="/actualizar" class="list-element">Actualizar Envío</a></li>
           </ul>
         <div class="login_button">
-          <a href="#" id="login-text">Login</a>
+          <a href="/login" id="login-text">Login</a>
         </div>
       </nav>
     </div>
