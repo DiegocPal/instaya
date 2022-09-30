@@ -1,0 +1,4 @@
+fecha,hora,largo,ancho,alto,dir_recogida,city_recogida,name_destino,id_destino,dir_destino,city_destino
+02/23/2021,15:00,25,46,78,K37#46-78,Popayan,Carlos Manrique,23546754,Cll34#45-245,Rionegro
+04/13/2022,08:30,34,56,78,Ave15#45-76,Bogota,Andres Zapata,76895434,Diag23#12-65,Leticia
+12/03/2022,12:45,21,34,32,Cll23#65-87,Cali,Leti Gonzales,67328976,AveLibertador#56-43,Cucuta
