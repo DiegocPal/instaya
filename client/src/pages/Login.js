@@ -2,7 +2,7 @@ import '../styles/login.css';
 import React from "react";
 import imagen from "../resources/usuario.png";
 
-function Login() {
+const Login = ()=> {
   return (
     <div>
         <head>
