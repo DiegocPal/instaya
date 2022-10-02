@@ -10,9 +10,9 @@ function Navbar() {
           <img src={logo} alt="logo"/>
         </div>
           <ul class="nav-enlaces">
-            <li><a href="/lista" class="list-element">Lista de Envíos</a></li>
-            <li><a href="/crear" class="list-element">Crear Envío</a></li>
-            <li><a href="/actualizar" class="list-element">Actualizar Envío</a></li>
+            <li><a href="/listaPedidos" class="list-element">Lista de Envíos</a></li>
+            <li><a href="/crearenvio" class="list-element">Crear Envío</a></li>
+            <li><a href="/envio/:id" class="list-element">Actualizar Envío</a></li>
           </ul>
         <div class="login_button">
           <a href="/login" id="login-text">Login</a>

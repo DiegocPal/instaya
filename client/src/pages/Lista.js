@@ -1,6 +1,6 @@
-import '../styles/lista.css';
+import '../components/styles/lista.css';
 import React from "react";
-import Table from 'react-bootstrap/Table';
+// import Table from 'react-bootstrap/Table';
 import Button from "react-bootstrap/Button"
 
 const Lista = () => {

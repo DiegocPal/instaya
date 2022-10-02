@@ -1,6 +1,6 @@
-import '../styles/actualizar.css';
+import '../components/styles/actualizar.css';
 import React from "react";
-import Button from "react-bootstrap/Button"
+import { Button } from "react-bootstrap"
 
 const Actualizar = () => {
   return (

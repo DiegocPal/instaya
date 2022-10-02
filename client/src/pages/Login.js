@@ -1,6 +1,6 @@
-import '../styles/login.css';
+import '../components/styles/login.css';
 import React from "react";
-import imagen from "../resources/usuario.png";
+import imagen from "../components/resources/usuario.png";
 
 const Login = ()=> {
   return (
@@ -35,7 +35,7 @@ const Login = ()=> {
            
 
             <div class="text-center">
-                <p>¿No tienes cuenta?Regístrate</p>
+                <p>¿No tienes cuenta? Regístrate</p>
                 
                 <button type="button" class="btn btn-sm btn-outline-secondary">Registrarse</button>
 

@@ -1,4 +1,4 @@
-import '../styles/registro.css';
+import '../components/styles/registro.css';
 import React from "react";
 
 const Registro = () => {

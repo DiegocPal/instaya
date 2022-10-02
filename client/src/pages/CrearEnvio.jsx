@@ -1,6 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
-import '../styles/CrearEnvio.css';
+import '../components/styles/CrearEnvio.css';
 
 function CrearEnvio() {
   return (
