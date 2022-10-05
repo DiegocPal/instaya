@@ -42,7 +42,7 @@ const Registro = () => {
 
 
                 <div>
-                    <button type="button" class="btn btn-outline-primary">Registrar</button>
+                    <button type="button" class="btn btn-outline-primary mr-3">Registrar</button>
                     <button type="button" class="btn btn-outline-secondary">Cancelar</button>
 
                 </div>
