@@ -1,3 +1,6 @@
+Para desplegar la app1 se ubican en el directorio server y ejecutan el comando "node index.js"
+Abrir otro terminal y ubicarse en el directorio client y ejecutar el comando "npm start"
+
 npx create-react-app instaya
 cd instaya
 npm install react-bootstrap bootstrap
