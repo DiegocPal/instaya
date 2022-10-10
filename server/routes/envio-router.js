@@ -9,7 +9,7 @@ router.post('/crearenvio', EnvioCTRL.createEnvio)
 router.put('/envio/:id', EnvioCTRL.updateEnvio)
 router.delete('/envio/:id', EnvioCTRL.deleteEnvio)
 router.get('/listaPedidos', EnvioCTRL.getEnvios)
-router.get('/envio/:id', EnvioCtrl.getEnvioById)
+router.get('/envio/:id', EnvioCTRL.getEnvioById)
 
 module.exports = router
 
