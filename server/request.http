@@ -1,0 +1,41 @@
+###
+POST http://localhost:5000/api/envios HTTP/1.1
+Content-Type: application/json
+
+{
+    "fecha": "2022-09-29",
+    "hora": "09:29",
+    "largo": "9.0",
+    "ancho": "4.5",
+    "alto": "9.0",
+    "direccionRecogida": "Calle 101 # 82 - 115",
+    "ciudadRecogida": "Pereira",
+    "nombreDestinatario": "Cristina Obando",
+    "idDestinatario": "1143762654",
+    "direccionEntrega": "Carrera 3C # 20 - 40",
+    "ciudadEntrega": "Cali"
+}
+
+###
+POST http://localhost:5000/api/envios HTTP/1.1
+Content-Type: application/json
+
+{
+    "fecha": "2022-01-11",
+    "hora": "01:11",
+    "largo": "11.0",
+    "ancho": "9.0",
+    "alto": "11.0",
+    "direccionRecogida": "Calle 20 # 11A - 01",
+    "ciudadRecogida": "Medellin",
+    "nombreDestinatario": "Eduardo Barreto",
+    "idDestinatario": "1143462468",
+    "direccionEntrega": "Carrera 9 # 29 - 40",
+    "ciudadEntrega": "Bogota"
+}
+
+###
+GET http://localhost:5000/api/envios HTTP/1.1
+
+###
+GET http://localhost:5000/api/envios/633cf681b92ace1992eeccf6 HTTP/1.1
